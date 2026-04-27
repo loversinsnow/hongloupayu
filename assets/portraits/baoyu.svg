@@ -1,0 +1,23 @@
+<svg width="360" height="600" viewBox="0 0 360 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="600" rx="36" fill="url(#bg)"/>
+  <ellipse cx="181" cy="118" rx="104" ry="68" fill="#EBD2AF" fill-opacity="0.22"/>
+  <path d="M98 560C106 462 128 364 180 364C232 364 254 462 262 560H98Z" fill="#715245"/>
+  <path d="M118 560C128 446 144 310 180 310C216 310 232 446 242 560H118Z" fill="#9A7A47"/>
+  <ellipse cx="180" cy="212" rx="68" ry="86" fill="#F4DEC3"/>
+  <path d="M114 220C116 152 144 96 180 96C216 96 244 152 246 220C222 198 206 188 180 188C154 188 138 198 114 220Z" fill="#2C2027"/>
+  <path d="M138 226C156 214 166 210 180 210C194 210 204 214 222 226" stroke="#5A3B3F" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="157" cy="220" r="6" fill="#34252A"/>
+  <circle cx="203" cy="220" r="6" fill="#34252A"/>
+  <path d="M164 246C172 252 188 252 196 246" stroke="#9E6B6D" stroke-width="4" stroke-linecap="round"/>
+  <path d="M116 344C134 296 152 276 180 276C208 276 226 296 244 344" fill="#D3A15C"/>
+  <circle cx="227" cy="364" r="14" fill="#B9E7A1"/>
+  <path d="M136 344C120 374 110 412 104 460" stroke="#EEDBC0" stroke-opacity="0.7" stroke-width="12" stroke-linecap="round"/>
+  <path d="M226 336C244 374 252 412 256 454" stroke="#EEDBC0" stroke-opacity="0.45" stroke-width="12" stroke-linecap="round"/>
+  <text x="180" y="520" text-anchor="middle" fill="#F7E9D6" font-size="26" font-family="serif">贾宝玉</text>
+  <defs>
+    <linearGradient id="bg" x1="180" y1="0" x2="180" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6E3640"/>
+      <stop offset="1" stop-color="#1C1317"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="360" height="600" viewBox="0 0 360 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="600" rx="36" fill="url(#bg)"/>
+  <ellipse cx="180" cy="120" rx="108" ry="72" fill="#EFF6F8" fill-opacity="0.24"/>
+  <path d="M110 560C122 454 144 366 180 366C216 366 238 454 250 560H110Z" fill="#556668"/>
+  <path d="M126 560C134 450 150 324 180 324C210 324 226 450 234 560H126Z" fill="#BFD6D6"/>
+  <ellipse cx="180" cy="212" rx="62" ry="84" fill="#F5E7D7"/>
+  <path d="M116 214C120 150 146 98 180 98C214 98 240 150 244 214C226 194 206 186 180 186C154 186 134 194 116 214Z" fill="#1E2730"/>
+  <circle cx="158" cy="220" r="5.5" fill="#243039"/>
+  <circle cx="202" cy="220" r="5.5" fill="#243039"/>
+  <path d="M164 248C172 254 188 254 196 248" stroke="#B98C94" stroke-width="4" stroke-linecap="round"/>
+  <path d="M140 344C154 302 164 280 180 280C196 280 206 302 220 344" fill="#D7E4E4"/>
+  <path d="M120 364C108 404 100 450 96 490" stroke="#E3F0F0" stroke-opacity="0.65" stroke-width="12" stroke-linecap="round"/>
+  <path d="M240 364C252 404 260 450 264 490" stroke="#E3F0F0" stroke-opacity="0.42" stroke-width="12" stroke-linecap="round"/>
+  <path d="M82 520C116 488 146 470 180 466C214 470 244 488 278 520" stroke="#91B7B4" stroke-opacity="0.7" stroke-width="6" stroke-linecap="round"/>
+  <text x="180" y="548" text-anchor="middle" fill="#F7F3EC" font-size="26" font-family="serif">林黛玉</text>
+  <defs>
+    <linearGradient id="bg" x1="180" y1="0" x2="180" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#49666A"/>
+      <stop offset="1" stop-color="#14181D"/>
+    </linearGradient>
+  </defs>
+</svg>

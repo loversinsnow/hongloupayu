@@ -1,0 +1,21 @@
+<svg width="360" height="600" viewBox="0 0 360 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="600" rx="36" fill="url(#bg)"/>
+  <ellipse cx="180" cy="120" rx="112" ry="72" fill="#F0C9B0" fill-opacity="0.22"/>
+  <path d="M104 560C114 462 138 368 180 368C222 368 246 462 256 560H104Z" fill="#564236"/>
+  <path d="M120 560C130 450 148 316 180 316C212 316 230 450 240 560H120Z" fill="#8B5B4F"/>
+  <ellipse cx="180" cy="212" rx="64" ry="84" fill="#F2DBC6"/>
+  <path d="M114 216C118 150 146 100 180 100C214 100 242 150 246 216C224 194 206 186 180 186C154 186 136 194 114 216Z" fill="#271E1C"/>
+  <circle cx="158" cy="220" r="6" fill="#302220"/>
+  <circle cx="202" cy="220" r="6" fill="#302220"/>
+  <path d="M166 248C172 252 188 252 194 248" stroke="#9F6868" stroke-width="4" stroke-linecap="round"/>
+  <path d="M138 344C152 294 164 278 180 278C196 278 208 294 222 344" fill="#B46C63"/>
+  <rect x="210" y="352" width="42" height="58" rx="10" transform="rotate(10 210 352)" fill="#E7D7C8"/>
+  <path d="M132 354C118 390 108 422 102 456" stroke="#EBD5C2" stroke-opacity="0.75" stroke-width="12" stroke-linecap="round"/>
+  <text x="180" y="536" text-anchor="middle" fill="#FAECDE" font-size="26" font-family="serif">小红</text>
+  <defs>
+    <linearGradient id="bg" x1="180" y1="0" x2="180" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6B4035"/>
+      <stop offset="1" stop-color="#151111"/>
+    </linearGradient>
+  </defs>
+</svg>
